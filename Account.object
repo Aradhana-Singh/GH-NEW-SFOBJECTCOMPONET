@@ -290,7 +290,7 @@
     </fields>
     <fields>
         <fullName>AnnualRevenue</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <formula>CleanStatus.Candidate__r.First_Name__c</formula>
         <label>Candidate Name</label>
         <required>false</required>
@@ -414,7 +414,7 @@
     </fields>
     <fields>
         <fullName>CustomerPriority__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Customer Priority</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -537,7 +537,7 @@
     </fields>
     <fields>
         <fullName>SLASerialNumber__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>SLA Serial Number</label>
         <length>10</length>
         <required>false</required>
@@ -547,7 +547,7 @@
     </fields>
     <fields>
         <fullName>SLA__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>SLA</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
@@ -609,7 +609,7 @@
     </fields>
     <fields>
         <fullName>UpsellOpportunity__c</fullName>
-        <externalId>false</externalId>
+        <externalId>true</externalId>
         <label>Upsell Opportunity</label>
         <required>false</required>
         <trackFeedHistory>false</trackFeedHistory>
