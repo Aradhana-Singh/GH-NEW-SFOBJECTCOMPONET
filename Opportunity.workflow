@@ -14,7 +14,7 @@
     </alerts>
     <fieldUpdates>
         <fullName>Bronze_flag</fullName>
-        <field>AutorabitExtId__c</field>
+        <field>llc_bi__last_review_date__c</field>
         <formula>&quot;bronze&quot;</formula>
         <name>Bronze flag</name>
         <notifyAssignee>false</notifyAssignee>
@@ -44,7 +44,7 @@
     </fieldUpdates>
     <fieldUpdates>
         <fullName>Gold</fullName>
-        <field>AutorabitExtId__c</field>
+        <field>llc_bi__closed_date__c</field>
         <formula>&quot;Gold&quot;</formula>
         <name>Gold</name>
         <notifyAssignee>false</notifyAssignee>
